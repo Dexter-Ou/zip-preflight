@@ -34,3 +34,5 @@ private filenames; choose where to store/share them.
 
 Recovery: retain your original ZIP; this program opens it read-only. Remove this
 source directory to uninstall. It creates no service, account or persistent task.
+
+For a reproducible producer workflow, see [Check a ZIP before publishing it](RELEASE-CHECK.md).
